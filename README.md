@@ -1,6 +1,6 @@
-mysql needed 
-mysql port:3306
-maven port: 8081
+mysql needed.
+mysql port:3306.
+maven port: 8081.
 you can:
 post to /person
 get all persons from: /person
